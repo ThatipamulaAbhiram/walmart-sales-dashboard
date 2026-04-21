@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dashboard.png" width="900">
+</p>
+
 # 🚀 Walmart Sales Intelligence Dashboard
 
 ## 🔗 Live Demo
