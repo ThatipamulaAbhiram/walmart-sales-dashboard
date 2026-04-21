@@ -28,6 +28,13 @@ An interactive data analytics dashboard built to analyze Walmart store performan
 
 ---
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard.png" width="100%">
+</p>
+---
+
 ## 🧠 Tech Stack
 
 * Python
