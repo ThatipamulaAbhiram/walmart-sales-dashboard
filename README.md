@@ -12,7 +12,7 @@
 
 ## 📊 Overview
 
-An interactive data analytics dashboard built to analyze Walmart store performance, identify trends, and forecast future sales using machine learning.
+An interactive data analytics dashboard to analyze Walmart sales data, uncover business insights, and support data-driven decision making.
 
 ---
 
