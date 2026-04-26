@@ -23,7 +23,7 @@ An interactive data analytics dashboard to analyze Walmart sales data, uncover b
 - Top 20% of products generate ~80% of revenue (Pareto principle)  
 - Certain stores consistently outperform others in profit margins  
 
-## ⚡ Features
+## ⚙️ What This Dashboard Does
 
 * 📈 Sales trend analysis over time
 * 🏬 Store-wise performance comparison
