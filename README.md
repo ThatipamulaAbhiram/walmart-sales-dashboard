@@ -16,6 +16,13 @@ An interactive data analytics dashboard built to analyze Walmart store performan
 
 ---
 
+## 🧠 Key Insights
+
+- Electronics category contributes ~40% of total revenue  
+- Sales peak observed in November–December (holiday season)  
+- Top 20% of products generate ~80% of revenue (Pareto principle)  
+- Certain stores consistently outperform others in profit margins  
+
 ## ⚡ Features
 
 * 📈 Sales trend analysis over time
